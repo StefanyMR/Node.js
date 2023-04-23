@@ -1,0 +1,25 @@
+{
+    "name": "nodejs",
+    "version": "1.0.0",
+    "description": "meu primeiro aplicativo web com nodeJS",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/StefanyMR/Node.js.git"
+    },
+    "author": "StefanyMR",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/StefanyMR/Node.js/issues"
+    },
+    "homepage": "https://github.com/StefanyMR/Node.js#readme",
+    "devDependencies": {
+      "nodemon": "^2.0.22"
+    },
+    "dependencies": {
+      "formidable": "^2.1.1"
+    }
+  }
